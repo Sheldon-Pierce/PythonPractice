@@ -26,7 +26,6 @@ MENU = {
 }
 
 COFFEE_MACHINE = True
-ENOUGH_RESOURCES = True
 resources = {
     "water": 300,
     "milk": 200,
